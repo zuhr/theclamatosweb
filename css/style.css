@@ -30,14 +30,11 @@ table {
 	border-spacing: 0;
 }
 #banner{
-    background: url(../img/banner-bg.jpg) no-repeat center top;
+    background: url(../img/banner1.jpg) no-repeat center top;
     background-size: cover;
     min-height: 630px;
 }
-.bg-color{
-    background-color: RGBA(0, 0, 0, 0.61);
-    min-height: 630px;
-}
+
 #banner h2{
     font-family: 'Satisfy', sans-serif;
     font-size: 45px;
@@ -52,10 +49,13 @@ table {
     padding: 60px 0px;
 }
 .logo-name{
-    font-family: 'Satisfy', sans-serif;
+    font-family:lulo-clean-w01-one-bold,sans-serif;
     font-size: 65px;
     margin-top: 140px;
-    color: #FFB03B;
+    color: #FFFFFF;
+}
+.logo-name{
+    text-shadow:#c8c8c8 1px 1px 0px, #b4b4b4 0px 2px 0px, #a0a0a0 0px 3px 0px, rgba(140, 140, 140, 0.498039) 0px 4px 0px, #787878 0px 0px 0px, rgba(0, 0, 0, 0.498039) 0px 5px 10px;
 }
 .sidenav {
     height: 100%;
