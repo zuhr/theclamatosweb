@@ -29,6 +29,17 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+#clamato-tittle{
+    margin-bottom: 40px;
+    margin-top: 3em;
+}
+.tittle-main p, h1{
+    text-align: center;
+}
+@font-face {
+    font-family: pencil;
+    src: url(Sketchetik-Light.woff);
+}
 #banner{
     background: url(../img/banner1.jpg) no-repeat center top;
     background-size: cover;
@@ -36,7 +47,7 @@ table {
 }
 
 #banner h2{
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'bookman, serif', sans-serif;
     font-size: 45px;
     color: #FFB03B;
 }
@@ -48,7 +59,7 @@ table {
 .section-padding{
     padding: 60px 0px;
 }
-.logo-name{
+.logo-name
     font-family:lulo-clean-w01-one-bold,sans-serif;
     font-size: 65px;
     margin-top: 140px;
@@ -100,9 +111,9 @@ table {
 }
 
 .header-h {
-    color: #FFB03B;
+    color: #2E64FE;
     font-size: 46px;
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'Jamie woods';
     font-weight: 300;
 }
 .header-p {
